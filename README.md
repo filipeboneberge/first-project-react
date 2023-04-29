@@ -1,6 +1,10 @@
 # Primeiro Projeto Responsivo com React <img src="https://skillicons.dev/icons?i=react" width="50px" style="position: relative; top: 15px;">
 <h4>:warning:ESSSE FOI UM PROJETO RESPONSIVO QUE APRENDI NO <a href="https://rodolfomori.com.br/devclub"> <img src="https://github.com/filipeboneberge/Projeto-Responsivo-Easy-Shopping/blob/master/assets/img/logo-devclub.png?raw=true" width="50px" style="position: relative; top: 20px;">DEVCLUB </a></h4>
-<br>Esse projeto foi onde aprendi a tecnologia React.
+<br>Esse projeto tem o objetivo de integrar com o back-end na funcão de cadastrar, visualizar e deletar usuários.
+<br>O projeto back-end está no meu github (first-project-node).
+<br>No front-end foi utilizada a tecnologia React.
+<br>No back-end foi utilizada a tecnologia NodeJS.
+<br>
 <img src="https://github.com/filipeboneberge/first-project-react/blob/master/src/assets/print-home-responsivo.png">
 <br>
 <img src="https://github.com/filipeboneberge/first-project-react/blob/master/src/assets/print-usuarios-responsivo.png">
